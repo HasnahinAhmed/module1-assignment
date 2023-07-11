@@ -13,7 +13,7 @@ body {
       width: 1400px;
       height: 550px;
       flex-shrink: 0;
-      background-color: rgba(229, 84, 115, 0.10);
+      background-color: #e554731a;
    }
 
    .banner {
@@ -401,8 +401,48 @@ body {
    }
    .foot-copy {
       color: rgba(255, 255, 255, 0.40);
-      font-size: 18px;
+      font-size: 16px;
       font-weight: 400;
       text-align: center;
       margin-bottom: 50px;
+   }
+   .contuct{
+      width: 1300px;
+      height: 600px;
+
+      background-color: #e554731a;
+      margin: 0px 0px 60px 0px;
+      padding: 60px 40px 90px 60px;
+   }
+   .con-head{
+      color: #272727;
+      font-size: 40px;
+      font-weight: 800;
+      display:
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+   }
+   .box-head{
+      color: #272727;
+      font-size: 5px;
+      font-weight:0px;
+   }
+   .box{
+   
+      width: 650px;
+      height: 50px;
+      border-radius: 2px;
+      background: #fff;
+      border: solid 1px;
+      margin: 10px 0px 10px 0px;
+   }
+   .com-box{
+      width: 650px;
+      height: 150px;
+      border-radius: 2px;
+      background: #fff;
+      border: solid 1px;
+      margin: 10px 0px 10px 0px;
    }
