@@ -315,3 +315,60 @@ body {
       width: 200px;
       height: 230px;
    }
+
+   .section5 {
+      width: 1000px;
+      height: 350px;
+      background-image: url("Flower Asset/Rectangle\ 9.png");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border-radius: 8px;
+      margin: 20px 90px 50px 200px;
+   }
+
+   .sec5-content {
+
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+
+   }
+
+   .sec5-con {
+      display: flex;
+   }
+
+   .sec5-con input {
+      margin-right: 10px;
+      width: 450px;
+      height: 50px;
+      border-radius: 2px;
+      background: #fff;
+      border: none;
+   }
+
+   .sec5-heading {
+      color: #272727;
+      font-size: 40px;
+      font-weight: 800;
+      margin-top: 70px;
+
+   }
+
+   .sec5-pra {
+      color: rgba(39, 39, 39, 0.60);
+      font-size: 18px;
+      font-weight: 400;
+      text-align: center;
+      margin-bottom: 50px;
+
+   }
+
+   .sec5-img {
+      width: 1400px;
+      height: 550px;
+
+   }
