@@ -79,7 +79,7 @@ body {
 
    }
 
-   .s1-headin {
+   .s1-heading {
       color: #272727;
       font-size: 26px;
       font-weight: 1000;
@@ -221,3 +221,23 @@ body {
       height: 80px;    
       margin-top: 90px;
    }
+/* section 3 */
+.section3{
+      width: 1400px;
+      height: 550px;
+      margin-top: 120px;
+      flex-shrink: 0;
+      background-color: rgba(229, 84, 115, 0.10);
+}
+.sec3{
+   margin-top: 50px;
+   display: flex;
+   justify:center ;
+}
+.sec3-content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+
+}
