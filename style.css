@@ -372,3 +372,37 @@ body {
       height: 550px;
 
    }
+   /* footer section */
+   .footer{
+      width: 1400px;
+      height: 550px;
+      flex-shrink: 0;
+      background: #111010;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      
+   }
+   .footer-head{
+      color: #ffffff;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 800;
+      line-height: normal;
+
+   }
+   .foot-pra{
+      color: #ffffff;
+      font-size: 18px;
+      font-weight: 400;
+      text-align: center;
+   }
+   .foot-copy {
+      color: rgba(255, 255, 255, 0.40);
+      font-size: 18px;
+      font-weight: 400;
+      text-align: center;
+      margin-bottom: 50px;
+   }
